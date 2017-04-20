@@ -1,0 +1,96 @@
+.main-logo {
+   text-align: center;
+   margin-top: 20%;
+
+}
+.search-bar{
+  margin-top: 1em;
+  padding: .5em .5em .5em .5em;
+  background-image: URL(https://upload.wikimedia.org/wikipedia/commons/2/22/Google_microphone_logo.png);
+  background-size: 15px 15px;
+  background-repeat: no-repeat;
+  background-position: right;
+  box-shadow: 1px 1px 1px 1px grey;
+
+}
+.search-bar:hover{
+  box-shadow: 2px 2px 2px 2px grey;
+}
+.button-1{
+  background-color: lightgrey;
+  display: inline;
+  margin-left: 1%;
+  margin-top: 2%;
+}
+.button-1:hover{
+  border: 1px solid black;
+}
+#googlesearch{
+  text-decoration: none;
+  color: black;
+  font-size: 5%;
+  padding: 8% 5% 8% 5%;
+  font-weight: bold;
+  text-align: center;
+
+
+}
+.button-2{
+  background-color: lightgrey;
+  margin-left:1%;
+  display: inline;
+  margin-top:5%;
+}
+.button-2:hover{
+  border: 1px solid black;
+}
+#feelinglucky{
+  text-decoration: none;
+  color: black;
+  font-size: 5%;
+  padding: 5% 5% 5% 5%;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+
+ li {
+   display: inline;
+   font-size:12px;
+   padding: 5px;
+ }
+ .navbar-container{
+   margin-left: 80%;
+ }
+ li a{
+   text-decoration: none;
+   color: Black;
+ }
+ li a:hover{
+   text-decoration: underline;
+ }
+ .footer-container{
+   background-color: lightgrey;
+   height: 5%;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+ }
+ .secondList {
+   display: inline;
+   color: black;
+ }
+ .secondListContainer {
+   text-align: left;
+   font-size: 15px;
+   font-weight: bolder;
+ }
+ .thirdList{
+   display: inline;
+   color: black;
+
+ }
+ #losingIt {
+   padding-left: 60%;
+ }
